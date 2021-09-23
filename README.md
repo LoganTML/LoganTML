@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hey!
+I'm a u1 Software Engineering student at McGill University in Montreal, QC.    
+Currently working on a project called Grid-Game (creative title ik) which you can find on my profile.
 
+
+Insta: @Logan_L4
 <!--
 **LoganTML/LoganTML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
