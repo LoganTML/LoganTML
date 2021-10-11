@@ -1,6 +1,6 @@
 ### Hey!
 I'm a u1 Software Engineering student at McGill University in Montreal, QC.    
-Currently working on a project called Grid-Game (creative title ik) which you can find on my profile.
+Currently working on a project called Grid-Puzzle-Game (creative title ik) which you can find on my profile.
 
 
 Insta: @Logan_L4
