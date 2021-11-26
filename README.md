@@ -1,4 +1,4 @@
-### Howdy/Bonjour,
+### Hello/Bonjour,
 I'm a U1 Software Engineering student at McGill University in Montreal, QC.    
 Currently working on: 
 
