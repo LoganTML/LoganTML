@@ -1,9 +1,13 @@
-### Howdy,
+### Howdy/Bonjour,
 I'm a U1 Software Engineering student at McGill University in Montreal, QC.    
-Currently working on two projects: Grid-Puzzle-Game, in Java, which can be found in the repository of the same name, and a physics-based basketball game in Unity.
+Currently working on: 
 
+1. Porting Grid-Puzzle-Game, which I began creating in plain, command line Java and can be found on my page, to mini2Dx.
+2. A two dimensional timer based basketball game in Unity, in its initial stages of development and located in a private repository.
 
 Capable in Java, C, and HTML/CSS.
+
+Email: LoganTML@outlook.com
 <!--
 **LoganTML/LoganTML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
