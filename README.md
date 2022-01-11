@@ -16,7 +16,7 @@ Fun facts:
 * I've been playing piano for 15 years
 * I play indoor volleyball for the men's (club) team at McGill University
 * I compete in beach volleyball tournaments across BC each summer
-* I started rock climbing shortly after the beginning of the COVID-19 pandemic
+* Although I have acrophobia I enjoy rock climbing, which I began a few months into the first COVID-19 lockdown.
 
 Email: Logan.Labossiere@mail.mcgill.ca
 <!--
