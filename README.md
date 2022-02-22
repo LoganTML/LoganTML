@@ -8,7 +8,7 @@ Available on my profile:
 3. C-Demo, a tool allowing users to create and manipulate lists in the command line. Created to review and practice implementing concepts including dynamic memory allocation, file I/O, data structures, and abstraction with the language C.
 
 
-Technical strengths: C, Java, HTML/CSS
+Technical strengths: C, Java, HTML/CSS, Unix, Bash
 
 
 Fun facts:
