@@ -28,6 +28,7 @@ Fun facts:
 -->
 
 Email: Logan.Labossiere@mail.mcgill.ca
+
 LinkedIn: https://www.linkedin.com/in/loganlabossiere/
 <!--
 **LoganTML/LoganTML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
