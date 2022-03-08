@@ -3,13 +3,13 @@ I'm a U1 Software Engineering student at McGill University in Montreal, QC.
 
 Available on my profile:
 
-1. Bro2Bro, a web application based on the app of the same name from the TV show Silicon Valley.  Using plain HTML/CSS, JavaScript, Node.js, and Socket.io I created a website that allows users to join a single chat room and send three different types of "Bro"s, which all other online users can see and respond to.
+1. Bro2Bro, a web application based on the app of the same name from the TV show Silicon Valley.  Using plain HTML/CSS, JavaScript, Express.js, Node.js, and Socket.io I created a website that allows users to create and join chat rooms, and send three different variations of the word "Bro" to the other users in their room.
 2. ARoom, built for the McHacks 9 hackathon using Svelte, JavaScript, Leaflet.js, and A-Frame. Allows users to create and join chat rooms based on their geolocation and proximity to other users, created in a team with three other developers. Demo available at https://logantml.github.io/ARoom/.  The repository used during the development process can be found in McHacks-2022.
 3. Grid-Puzzle-Game, which I created in plain, command line Java using concepts such as File I/O, recursion, data structures such as stacks and queues, user input, and abstraction.
 4. C-Demo, a tool allowing users to create and manipulate lists in the command line. Created to review and practice implementing concepts including dynamic memory allocation, file I/O, data structures, and abstraction with the language C.  Nearly complete, I'm still finishing the testing process.
 
 
-Technical strengths: C, Java, HTML/CSS, Unix, Bash
+Technical strengths: C, Java, JavaScript, HTML/CSS, Unix, Bash
 
 
 Fun facts:
