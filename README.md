@@ -1,33 +1,27 @@
 ### Hello/Bonjour,
-I'm a U1 Software Engineering student at McGill University in Montreal, QC. 
+I'm a U2 Computer Science student at McGill University in Montreal, QC. 
 
 Available on my profile:
 
-1. Bro2Bro, a web application based on the app of the same name from the TV show Silicon Valley.  Using plain HTML/CSS, JavaScript, Express.js, Node.js, and Socket.io I created a website that allows users to create and join chat rooms, and send three different variations of the word "Bro" to the other users in their room.
+1. Bro2Bro, a web application based on an app of the same name in the TV show Silicon Valley.  Using plain HTML/CSS, JavaScript, Express.js, Node.js, and Socket.io I created a website that allows users to create and join chat rooms, and send three different variations of the word "Bro" to the other users in their room.
 2. ARoom, built for the McHacks 9 hackathon using Svelte, JavaScript, Leaflet.js, and A-Frame. Allows users to create and join chat rooms based on their geolocation and proximity to other users, created in a team with three other developers. Links: [Demo](https://logantml.github.io/ARoom/), [Devpost](https://devpost.com/software/aroom-dzm4in?ref_content=user-portfolio&ref_feature=in_progress).  The repository used during the development process can be found in McHacks-2022.
 3. Grid-Puzzle-Game, which I created in plain, command line Java using concepts including File I/O, recursion, user input, abstraction, and data structures (stacks, queues).
-4. C-Demo, a tool allowing users to create and manipulate lists in the command line. Created to review and practice implementing concepts including dynamic memory allocation, file I/O, data structures, and abstraction with the language C.  Nearly complete, I'm still finishing the testing process.
+4. C-Demo, a tool allowing users to create and manipulate lists in the command line. Created to review and practice implementing concepts including dynamic memory allocation, file I/O, data structures, and abstraction with the language C.  Nearly complete.
 
 
-Technical strengths: C, Java, JavaScript, HTML/CSS, Unix, Bash
+Experience with: C, Java, JavaScript, HTML/CSS, Unix, Bash, OCaml, MIPS, Logism
 
 
 Fun facts:
-* I've been playing piano for 15 years.
-* I play indoor volleyball for the men's (club) team at McGill University.
-* I compete in beach volleyball tournaments across BC each summer.
-* Although I have acrophobia I enjoy rock climbing, which I began a few months after the first COVID-19 lockdowns began.
+* I love making/performing music, and I've been playing the piano for 16 years
+* I play volleyball for the McGill University men's club team
+* I enjoy working out, and am a member of McGill's SSMU Powerlifting Club
 
 <!--
 ##Relevant coursework:
 * CSC 111 (UVic): Fundamentals of Programming with Engineering Applications. 99% -> A+ (average: 72%)
-* CSC 115 (UVic): Fundamentals of Programming: II. 86% -> A (average: 77%)
-* COMP 206 (McGill): Introduction to Software Systems. In Progress.
-* MATH 262 (McGill): Intermediate Calculus. A (average: B)
-* MATH 263 (McGill): Ordinary Differential Equations for Engineers. A (average: A)
+* 
 -->
-
-Email: Logan.Labossiere@mail.mcgill.ca
 
 LinkedIn: https://www.linkedin.com/in/loganlabossiere/
 <!--
