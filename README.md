@@ -1,5 +1,5 @@
 ### Hello/Bonjour,
-I'm a U2 Computer Science student at McGill University in Montreal, QC. 
+I'm a U2 BSc Honours Software Engineering student at McGill University in Montreal, QC. 
 
 Available on my profile:
 
