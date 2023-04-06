@@ -1,40 +1,35 @@
-### Hello/Bonjour,
-I'm a U2 BSc Honours Software Engineering student at McGill University in Montreal, QC. 
+# Logan Labossiere
 
-Available on my profile:
+Hello/Bonjour! I'm a U2 BSc Honours Software Engineering student at McGill University in Montreal, QC.
 
-1. Bro2Bro, a web application based on an app of the same name in the TV show Silicon Valley.  Using plain HTML/CSS, JavaScript, Express.js, Node.js, and Socket.io I created a website that allows users to create and join chat rooms, and send three different variations of the word "Bro" to the other users in their room.
-2. ARoom, built for the McHacks 9 hackathon using Svelte, JavaScript, Leaflet.js, and A-Frame. Allows users to create and join chat rooms based on their geolocation and proximity to other users, created in a team with three other developers. Links: [Demo](https://logantml.github.io/ARoom/), [Devpost](https://devpost.com/software/aroom-dzm4in?ref_content=user-portfolio&ref_feature=in_progress).  The repository used during the development process can be found in McHacks-2022.
-3. Grid-Puzzle-Game, which I created in plain, command line Java using concepts including File I/O, recursion, user input, abstraction, and data structures (stacks, queues).
-4. C-Demo, a tool allowing users to create and manipulate lists in the command line. Created to review and practice implementing concepts including dynamic memory allocation, file I/O, data structures, and abstraction with the language C.  Nearly complete.
+- 🎹 Piano player for 16 years
+- 🏐 McGill University men's club volleyball team member
+- 🏋️ McGill SSMU Powerlifting Club member
 
+[LinkedIn](https://www.linkedin.com/in/loganlabossiere/)
 
-Experience with: C, Java, JavaScript, HTML/CSS, Unix, Bash, OCaml, MIPS, Logism
+## Table of Contents
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Skills](#skills)
 
+## About Me
 
-Fun facts:
-* I love making/performing music, and I've been playing the piano for 16 years
-* I play volleyball for the McGill University men's club team
-* I enjoy working out, and am a member of McGill's SSMU Powerlifting Club
+I'm a U2 honours software engineering student passionate about developing creative and innovative solutions. I enjoy working in a team and collaborating on projects, especially during hackathons.
 
+## Projects
+
+- **Bro2Bro**: A web application based on an app from the TV show Silicon Valley. Created using HTML/CSS, JavaScript, Express.js, Node.js, and Socket.io. Features chat room creation and sending variations of the word "Bro."
 <!--
-##Relevant coursework:
-* CSC 111 (UVic): Fundamentals of Programming with Engineering Applications. 99% -> A+ (average: 72%)
-* 
+- **Git 2**: A program initially built for COMP 322 using C++ allowing users to save, compare, search, and restore previous versions of their files.  I am working on expanding it by creating a GUI and allowing it to access multiple files simultaneously.
+
+- **Pong**: A version of the iconic video game Pong created for the final project of COMP 308 at McGill using C, in-line assembly, and OpenGL.
 -->
+- **ARoom**: Built for the McHacks 9 hackathon using Svelte, JavaScript, Leaflet.js, and A-Frame. Enables geolocation-based chat room creation and joining. Developed with a team of three other developers. [Demo](https://logantml.github.io/ARoom/), [Devpost](https://devpost.com/software/aroom-dzm4in?ref_content=user-portfolio&ref_feature=in_progress), [Repository](https://github.com/McHacks-2022).
 
-LinkedIn: https://www.linkedin.com/in/loganlabossiere/
-<!--
-**LoganTML/LoganTML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Grid-Puzzle-Game**: A command-line puzzle game created with Java, implementing concepts including File I/O, recursion, user input, abstraction, and data structures (stacks, queues).
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: C, C++, Python, SQL, Java, JavaScript, HTML/CSS, Unix, Bash, OCaml, MIPS
+- Tools: Logism, VS Code, Vim, CLion, IntelliJ IDEA
