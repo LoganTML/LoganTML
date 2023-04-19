@@ -15,7 +15,7 @@ Hello/Bonjour! I'm a U2 BSc Honours Software Engineering student at McGill Unive
 
 ## About Me
 
-I'm a U2 honours software engineering student passionate about developing creative and innovative solutions. I enjoy working in a team and collaborating on projects, especially during hackathons.
+I'm a U2 honours software engineering student passionate about developing creative and innovative solutions to problems. I enjoy working in a team and collaborating on projects.
 
 ## Projects
 
@@ -25,7 +25,7 @@ I'm a U2 honours software engineering student passionate about developing creati
 
 - **Pong**: A version of the iconic video game Pong created for the final project of COMP 308 at McGill using C, in-line assembly, and OpenGL.
 -->
-- **ARoom**: Built for the McHacks 9 hackathon using Svelte, JavaScript, Leaflet.js, and A-Frame. Enables geolocation-based chat room creation and joining. Developed with a team of three other developers. [Demo](https://logantml.github.io/ARoom/), [Devpost](https://devpost.com/software/aroom-dzm4in?ref_content=user-portfolio&ref_feature=in_progress), [Repository](https://github.com/McHacks-2022).
+- **ARoom**: Built for the McHacks 9 hackathon using Svelte, JavaScript, Leaflet.js, and A-Frame. Enables geolocation-based chat room creation and joining. Developed with a team of three other developers. [Demo](https://logantml.github.io/ARoom/), [Devpost](https://devpost.com/software/aroom-dzm4in?ref_content=user-portfolio&ref_feature=in_progress), [Repository](https://github.com/LoganTML/McHacks-2022).
 
 - **Grid-Puzzle-Game**: A command-line puzzle game created with Java, implementing concepts including File I/O, recursion, user input, abstraction, and data structures (stacks, queues).
 
