@@ -15,7 +15,7 @@ Hello/Bonjour! I'm a U2 BSc Honours Software Engineering student at McGill Unive
 
 ## About Me
 
-I'm a U2 honours software engineering student passionate about developing creative and innovative solutions to problems. I enjoy working in a team and collaborating on projects.
+I'm a U3 honours software engineering student passionate about developing creative and innovative solutions to problems. I enjoy working in a team and collaborating on projects.
 
 ## Projects
 
