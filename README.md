@@ -1,6 +1,6 @@
 # Logan Labossiere
 
-Hello/Bonjour! I'm a U2 BSc Honours Software Engineering student at McGill University in Montreal, QC.
+Hello/Bonjour! I'm a U3 BSc Honours Software Engineering student at McGill University in Montreal, QC.
 
 - 🎹 Piano player for 16 years
 - 🏐 McGill University men's club volleyball team member
