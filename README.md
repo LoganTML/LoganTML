@@ -6,8 +6,7 @@ Hello/Bonjour! I'm a U3 BSc Honours Software Engineering student at McGill Unive
 - 🏐 McGill University men's club volleyball team member
 - 🏋️ McGill SSMU Powerlifting Club member
 
-[LinkedIn](https://www.linkedin.com/in/loganlabossiere/)
-
+<!-- [LinkedIn](https://www.linkedin.com/in/loganlabossiere/) -->
 ## Table of Contents
 - [About Me](#about-me)
 - [Projects](#projects)
