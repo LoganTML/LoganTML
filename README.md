@@ -6,7 +6,7 @@
 I'm a U3 honours software engineering student in Montreal, QC.  I'm passionate about developing creative and innovative solutions to problems, and I enjoy working in teams and collaborating on projects.
 
 - 🎹 Piano player for 16 years
-- 🏐 McGill University men's club volleyball team member
+- 🏐 McGill Men's Volleyball Club team member
 - 🏋️ McGill SSMU Powerlifting Club member
 
 ## Projects
