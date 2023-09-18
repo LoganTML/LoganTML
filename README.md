@@ -5,9 +5,9 @@
 
 I'm a U3 BSc. Major Computer Science - Artificial Intelligence student in Montreal, QC.  I'm passionate about developing creative and innovative solutions to problems, and I enjoy working in teams and collaborating on projects.
 
-- 🏋️ McGill SSMU Powerlifting Club: VP Internal
-- 🏐 McGill Men's Volleyball Club Team: Member
-- 🎹 Piano player for 16 years
+- 🏋️ VP Internal: McGill SSMU Powerlifting Club
+- 🏐 Member: McGill Men's Volleyball Club Team
+- 🎹 Piano player, currently learning the second half of [this arrangement](https://www.youtube.com/watch?v=PMGUeXtmueU)
 
 ## Projects
 
