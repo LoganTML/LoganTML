@@ -3,11 +3,11 @@
 
 ## About Me
 
-I'm a U3 BSc. Major Computer Science + Minor Statistics student in Montreal, QC.  I'm passionate about developing creative and innovative solutions to problems, and I enjoy working in teams and collaborating on projects.
+I'm a U3 BSc. Major Computer Science - Artificial Intelligence student in Montreal, QC.  I'm passionate about developing creative and innovative solutions to problems, and I enjoy working in teams and collaborating on projects.
 
+- 🏋️ McGill SSMU Powerlifting Club: VP Internal
+- 🏐 McGill Men's Volleyball Club Team: Member
 - 🎹 Piano player for 16 years
-- 🏐 McGill Men's Volleyball Club team member
-- 🏋️ McGill SSMU Powerlifting Club member
 
 ## Projects
 
