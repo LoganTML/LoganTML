@@ -11,7 +11,8 @@ I'm a U3 BSc. Major Computer Science - Artificial Intelligence student in Montre
 
 ## Projects
 
-- **Bro2Bro**: A web application based on an app from the TV show Silicon Valley. Created using HTML/CSS, JavaScript, Express.js, Node.js, and Socket.io. Features chat room creation and sending variations of the word "Bro."
+- **Tabulator**: A chrome extension that groups tabs by URL, immediately reducing clutter and improving organization.  Currently awaiting review on the Chrome Web Store. Code available [here](https://github.com/LoganTML/tabulator).
+- **Bro2Bro**: A web application based on an app from the TV show Silicon Valley. Created using HTML/CSS, JavaScript, Express.js, Node.js, and Socket.io. Features chat room creation and sending variations of the word "Bro." Code available [here](https://github.com/LoganTML/bro2bro).
 <!--
 - **Git 2**: A program initially built for COMP 322 using C++ allowing users to save, compare, search, and restore previous versions of their files.  I am working on expanding it by creating a GUI and allowing it to access multiple files simultaneously.
 
