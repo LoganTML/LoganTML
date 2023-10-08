@@ -40,7 +40,7 @@ I'm a U3 BSc. Major Computer Science - Artificial Intelligence student in Montre
   - Performed classification on the [IMDb review dataset](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz) using both Naive Bayes and Bidirectional Encoder Representations from Transformers (BERT) models. Used ADAM as an optimizer for BERT. Tested the performance of different train/test split sizes on the Naive Bayes model.
   - Attempted to reproduce the results of the paper [Deep Fair Clustering for Visual Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Deep_Fair_Clustering_for_Visual_Learning_CVPR_2020_paper.pdf) on the datasets MNIST, RMNIST, and USPS.
 - COMP 424 (Artificial Intelligence- IP):
-  - Designed and implemented a hill-climbing algorithm that solves the N Queens problem up to N=120
+  - Designed and implemented an algorithm using Hill Climbing that will find a solution for the N Queens problem up to N=120.
 - COMP 421 (Database Systems):
   - Designed, implemented, and refined a relational database schema in DB2 to store information for a soccer tournament based on a set of user requirements. Using JDBC, built a Java interface for performing CRUD operations.
   - Other areas of study: Entity-Relationship modelling, Relational Algebra, SQL (PostgreSQL, MySQL), Buffer Management, Indexing, Query Evaluation, Big Data (Distributed Data Processing with Hadoop, Map-Reduce), Transactions and Concurrency, Graph Databases
@@ -48,7 +48,7 @@ I'm a U3 BSc. Major Computer Science - Artificial Intelligence student in Montre
   - Configured and set up an Apache web server on an AWS EC2 instance.
 - COMP 322 (Introduction to C++): 
   - Using plain C++, built a local version control system, which saves and tracks changes between versions of a file through the command line.
-- COMP 321 (Programming Challenges):
+- COMP 321 (Programming Challenges- IP):
   - Participated in NP Compete, the ICPC qualifier hosted by the McGill Competitive Programming Club.
 - COMP 308 (Computer Systems Lab): 
   - Using Intel x86 Assembly (TASM) emulated on DOSBOX, OpenGL, GLSL, and glfw3 compiled with CMake, built a game of Pong playable against an "AI opponent" (it used a single if statement to determine where to move).
