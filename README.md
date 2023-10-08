@@ -19,7 +19,9 @@ I'm a U3 BSc. Major Computer Science - Artificial Intelligence student in Montre
 - **Pong**: A version of the iconic video game Pong created for the final project of COMP 308 at McGill using C, in-line assembly, and OpenGL.
 -->
 - **ARoom**: Built for the McHacks 9 hackathon using Svelte, JavaScript, Leaflet.js, and A-Frame on a team with 3 other developers. Allows users to create and join geolocation-based chat rooms. [Demo](https://logantml.github.io/ARoom/), [Devpost](https://devpost.com/software/aroom-dzm4in?ref_content=user-portfolio&ref_feature=in_progress), [Repository](https://github.com/LoganTML/McHacks-2022).
-- 
+
+
+
 <!--
 - **Grid-Puzzle-Game**: A command-line puzzle game created with Java, implementing concepts including File I/O, recursion, user input, abstraction, and data structures (stacks, queues).
 -->
