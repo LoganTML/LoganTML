@@ -7,7 +7,7 @@ I'm a U3 BSc. Major Computer Science - Artificial Intelligence student in Montre
 
 - 🏋️ VP Internal: McGill SSMU Powerlifting Club.
 - 🏐 Member: McGill Men's Volleyball Club Team.  I play setter for indoor, and beach during the summer.
-- 🎹 I play piano, and am currently learning the second half of [this arrangement](https://www.youtube.com/watch?v=PMGUeXtmueU).
+- 🎹 I play piano, and am currently learning the the last two minutes of [this arrangement](https://www.youtube.com/watch?v=PMGUeXtmueU).
 
 ## Projects
 
