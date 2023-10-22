@@ -17,15 +17,8 @@ I'm a U3 BSc. Major Computer Science - Artificial Intelligence student in Montre
 - **ARoom**: Built for the McHacks 9 hackathon using Svelte, JavaScript, Leaflet.js, and A-Frame on a team with 3 other developers. Allows users to create and join geolocation-based voice chat rooms. [Demo](https://logantml.github.io/ARoom/), [Devpost](https://devpost.com/software/aroom-dzm4in?ref_content=user-portfolio&ref_feature=in_progress), [Repository](https://github.com/LoganTML/McHacks-2022).
 - **Git 2**: A program initially built for COMP 322 using C++ allowing users to save, compare, search, and restore previous versions of their files.  I am working on expanding it by creating a GUI and allowing it to access multiple files simultaneously.
 
-- **Pong**: A version of the iconic video game Pong created for the final project of COMP 308 at McGill using C, in-line assembly, and OpenGL.
--->
-
-
-<!--
 - **Grid-Puzzle-Game**: A command-line puzzle game created with Java, implementing concepts including File I/O, recursion, user input, abstraction, and data structures (stacks, queues).
--->
 
-<!--
 **Study Clock**: A desktop app written in Python allowing users to track time spent studying/working on different subjects each day.
 
 **Home base**: A chrome extension allowing users to save and easily access their most commonly used webpages
