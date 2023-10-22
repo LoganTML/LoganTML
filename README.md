@@ -51,11 +51,11 @@ I'm a U3 BSc. Major Computer Science - Artificial Intelligence student in Montre
 - COMP 322 (Introduction to C++): 
   - Using plain C++, built a local version control system, which saves and tracks changes between versions of a file through the command line.
 - COMP 321 (Programming Challenges- IP):
-  - Participated in NP Compete, the ICPC qualifier hosted by the McGill Competitive Programming Club.
+  - Participated in NP Compete, the ICPC qualifier hosted by the McGill Competitive Programming Club, as well as three simulated competitions as class examinations.
 - COMP 308 (Computer Systems Lab): 
-  - Using Intel x86 Assembly (TASM) emulated on DOSBOX, OpenGL, GLSL, and glfw3 compiled with CMake, built a game of Pong playable against an "AI opponent" (it used a single if statement to determine where to move).
+  - Using Intel x86 Assembly (TASM) emulated on DOSBOX, OpenGL, GLSL, and glfw3 compiled with CMake, built a game of Pong playable against an "AI opponent" (it used a single if statement to determine where to move lol).
 - COMP 273 (Introduction to Computer Systems): 
-  - Using a Logism circuit simulator, built a functional CPU from scratch.
+  - Using a Logism circuit simulator, designed a functional CPU with an ALU and connections to peripherals.
 
 <!--
 ## Skills
