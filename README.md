@@ -9,7 +9,7 @@ I'm a U3 BSc. Major Computer Science - Artificial Intelligence student in Montre
 - 🏐 Member: McGill Men's Volleyball Club Team.  I play setter for indoor, and beach during the summer.
 - 🎹 I play piano, and am currently learning the the last two minutes of [this arrangement](https://www.youtube.com/watch?v=PMGUeXtmueU).
 
-## Projects
+## Personal Projects
 
 - **Tabulator**: A chrome extension that groups tabs by URL, immediately reducing clutter and improving organization.  Currently [published](https://chrome.google.com/webstore/detail/tabulator/jmblkmlknemipmflaegcnaiadfpfekbd) on the Chrome Web Store with 7 downloads. Code available [here](https://github.com/LoganTML/tabulator).
 - **Bro2Bro**: A web application based on an app from the TV show Silicon Valley. Created using HTML/CSS, JavaScript, Express.js, Node.js, and Socket.io. Features chat room creation and sending variations of the word "Bro." Code available [here](https://github.com/LoganTML/bro2bro).
@@ -34,7 +34,8 @@ I'm a U3 BSc. Major Computer Science - Artificial Intelligence student in Montre
 **RR Network**: A project where I cleaned and gathered data and attempted to visualize the social network between characters in the [Red Rising series](https://www.piercebrown.com/redrisingsaga).
 
 -->
-**Course projects: only available upon request**:
+## Course Projects
+**Only available upon request**
 - COMP 551 (Applied Machine Learning): Implemented ML models and wrote papers on the following topics-
   - Performed a linear regression with both analytical and stochastic batch gradient descent methods on the [ENB 2012 Energy Efficiency Dataset](https://www.kaggle.com/datasets/elikplim/eergy-efficiency-dataset).  Performed a hyperparameter search to determine the best values for train/test split sizes, batch sizes, and learning rates.
   - Implemented a MLP model on the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) to classify images. Tested its performance with differing numbers of layers (0, 1, 2), activation functions (ReLU, Tanh, Leaky ReLU), and L1 vs L2 regularization.
