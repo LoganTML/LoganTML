@@ -1,5 +1,5 @@
 # Logan Labossiere
-<!-- [LinkedIn](https://www.linkedin.com/in/loganlabossiere/) -->
+<!-- [LinkedIn](https://www.linkedin.com/in/loganlabossiere/) 
 
 ## About Me
 
@@ -7,7 +7,7 @@ I'm a U3 BSc. Major Computer Science - Artificial Intelligence student at McGill
 
 - 🏋️ VP Internal: McGill SSMU Powerlifting Club.  I've been powerlifting since July 2022, and I'm extremely passionate about facilitating the growth of the sport at McGill.
 - 🏐 Member: McGill Men's Volleyball Club Team.  I play setter for indoor, and beach during the summer.
-- 🎹 I play piano, and am currently learning the the last two minutes of [this arrangement](https://www.youtube.com/watch?v=PMGUeXtmueU).
+- 🎹 I play piano, and am currently learning the the last two minutes of [this arrangement](https://www.youtube.com/watch?v=PMGUeXtmueU). -->
 
 ## Personal Projects
 
@@ -26,7 +26,7 @@ I'm a U3 BSc. Major Computer Science - Artificial Intelligence student at McGill
 
 **RR Network**: A project where I cleaned and gathered data and attempted to visualize the social network between characters in the [Red Rising series](https://www.piercebrown.com/redrisingsaga).
 
--->
+
 ## Course Projects
 **Only available upon request**
 - COMP 551 (Applied Machine Learning): Implemented ML models and wrote papers on the following topics-
@@ -49,7 +49,7 @@ I'm a U3 BSc. Major Computer Science - Artificial Intelligence student at McGill
   - Using Intel x86 Assembly (TASM) emulated on DOSBOX, OpenGL, GLSL, and glfw3 compiled with CMake, built a game of Pong playable against an "AI opponent" (it used a single if statement to determine where to move lol).
 - COMP 273 (Introduction to Computer Systems): 
   - Using a Logism circuit simulator, designed a functional CPU with an ALU and connections to peripherals.
-
+-->
 <!--
 ## Skills
 
