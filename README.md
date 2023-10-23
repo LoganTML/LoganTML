@@ -1,6 +1,4 @@
 # Logan Labossiere
- [LinkedIn](https://www.linkedin.com/in/loganlabossiere/) 
-
 ## About Me
 
 Hey! Thanks for checking out my GitHub.  I have some projects listed below; please feel free to check them out or look at [my website](LoganTML.github.io) or [Linkedin](https://www.linkedin.com/in/loganlabossiere/)!
