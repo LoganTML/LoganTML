@@ -1,13 +1,9 @@
 # Logan Labossiere
-<!-- [LinkedIn](https://www.linkedin.com/in/loganlabossiere/) 
+ [LinkedIn](https://www.linkedin.com/in/loganlabossiere/) 
 
 ## About Me
 
-I'm a U3 BSc. Major Computer Science - Artificial Intelligence student at McGill University in Montreal, QC.  I'm passionate about developing creative and innovative solutions to problems, and I enjoy working in teams and collaborating on projects.
-
-- 🏋️ VP Internal: McGill SSMU Powerlifting Club.  I've been powerlifting since July 2022, and I'm extremely passionate about facilitating the growth of the sport at McGill.
-- 🏐 Member: McGill Men's Volleyball Club Team.  I play setter for indoor, and beach during the summer.
-- 🎹 I play piano, and am currently learning the the last two minutes of [this arrangement](https://www.youtube.com/watch?v=PMGUeXtmueU). -->
+Hey! Thanks for checking out my GitHub.  I have some projects listed below; please feel free to check them out or look at [my website](LoganTML.github.io) or [Linkedin](https://www.linkedin.com/in/loganlabossiere/)!
 
 ## Personal Projects
 
