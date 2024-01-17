@@ -1,10 +1,11 @@
 # Logan Labossiere
 ## About Me
 
-Hey! Thanks for checking out my GitHub.  I have some projects listed below; please feel free to check them out or look at [my website](https://LoganTML.github.io) or [Linkedin](https://www.linkedin.com/in/loganlabossiere/)!
+Hi, thanks for checking out my GitHub!  I have some projects listed below; for a more comprehensive list please visit [my website](https://logan-tml-github-io.vercel.app/).
 
 ## Personal Projects
 
+- **RR Social Network**: Using Python, specifically NetworkX and PyVis, I constructed a social network for each book in the series Red Rising using only Python and a .txt file of each book, and analyzed the performance of several centrality measures and the Louvain Community Detection algorithm on each network.  A more detailed analysis is available [here](https://rr-visualization.vercel.app/).
 - **Tabulator**: A chrome extension that groups tabs by URL, immediately reducing clutter and improving organization.  Currently [published](https://chrome.google.com/webstore/detail/tabulator/jmblkmlknemipmflaegcnaiadfpfekbd) on the Chrome Web Store with 7 downloads. Code available [here](https://github.com/LoganTML/tabulator).
 - **Bro2Bro**: A web application based on an app from the TV show Silicon Valley. Created using HTML/CSS, JavaScript, Express.js, Node.js, and Socket.io. Features chat room creation and sending variations of the word "Bro." Code available [here](https://github.com/LoganTML/bro2bro).
 <!--
