@@ -1,7 +1,7 @@
 # Logan Labossiere
 ## About Me
 
-Hi, thanks for checking out my GitHub!  I have some projects listed below; for a more comprehensive list please visit [my website](https://logan-tml-github-io.vercel.app/).
+Hi, thanks for checking out my GitHub!  I have some projects listed below; for a more comprehensive list please visit [my website](https://logan-labossiere.vercel.app/).
 
 ## Personal Projects
 
