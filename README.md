@@ -1,7 +1,7 @@
 # Logan Labossiere
 ## About Me
 
-Hi, thanks for checking out my GitHub!  I have some projects listed below; for a more comprehensive list please visit [my website](https://logan-labossiere.vercel.app/).
+Hi, thanks for checking out my GitHub!  I have some projects listed below; for a more comprehensive list please visit [my website](https://logan-labossiere.vercel.app/).  Recently, I've been working as a member of the McGill Robotics Drone Software team, training and implementing Computer Vision models with PyTorch and OpenCV.
 
 ## Personal Projects
 
