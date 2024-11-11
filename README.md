@@ -1,14 +1,20 @@
 # Logan Labossiere
 ## About Me
 
-Hi, thanks for checking out my GitHub!  I have some projects listed below; for a more comprehensive list please visit [my website](https://logan-labossiere.vercel.app/).  Recently, I've been working as a member of the McGill Robotics Drone Software team, training and implementing Computer Vision models with PyTorch and OpenCV.
+Thanks for checking out my GitHub!  <!--I have some projects listed below; for a more comprehensive list please visit [my website](https://logan-labossiere.vercel.app/).-->  
 
+Lately I've been working as a researcher with McGill's COSMO Stochastic Mine Planning Laboratory, as well as a developer at Clementine AI. I've also been working on McGill Robotics' Drone Team, training and integrating PyTorch-based object detection models with the navigation system.
+
+For more info please send me an email!
+
+
+<!--
 ## Personal Projects
 
 - **RR Social Network**: Using Python, specifically NetworkX and PyVis, I constructed a social network for each book in the series Red Rising using only Python and a .txt file of each book, and analyzed the performance of several centrality measures and the Louvain Community Detection algorithm on each network.  A demo, analysis, and more detailed description of the process is available [here](https://rr-visualization.vercel.app/).
 - **Tabulator**: A chrome extension that groups tabs by URL, immediately reducing clutter and improving organization.  Currently [published](https://chrome.google.com/webstore/detail/tabulator/jmblkmlknemipmflaegcnaiadfpfekbd) on the Chrome Web Store with 7 downloads. Code available [here](https://github.com/LoganTML/tabulator).
 - **Bro2Bro**: A web application based on an app from the TV show Silicon Valley. Created using HTML/CSS, JavaScript, Express.js, Node.js, and Socket.io. Features chat room creation and sending variations of the word "Bro." Code available [here](https://github.com/LoganTML/bro2bro).
-<!--
+
 - **ARoom**: Built for the McHacks 9 hackathon using Svelte, JavaScript, Leaflet.js, and A-Frame on a team with 3 other developers. Allows users to create and join geolocation-based voice chat rooms. [Demo](https://logantml.github.io/ARoom/), [Devpost](https://devpost.com/software/aroom-dzm4in?ref_content=user-portfolio&ref_feature=in_progress), [Repository](https://github.com/LoganTML/McHacks-2022).
 - **Git 2**: A program initially built for COMP 322 using C++ allowing users to save, compare, search, and restore previous versions of their files.  I am working on expanding it by creating a GUI and allowing it to access multiple files simultaneously.
 
