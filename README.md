@@ -1,11 +1,8 @@
 # Logan Labossiere
-## About Me
 
 Thanks for checking out my GitHub!  <!--I have some projects listed below; for a more comprehensive list please visit [my website](https://logan-labossiere.vercel.app/).-->  
 
-Lately I've been working as a researcher with McGill's COSMO Stochastic Mine Planning Laboratory, as well as a developer at Clementine AI. I've also been working on McGill Robotics' Drone Team, training and integrating PyTorch-based object detection models with the navigation system.
-
-For more info please send me an email!
+For a comprehensive list of my recent work, please visit [my website](https://logan-labossiere.vercel.app/)!
 
 
 <!--
